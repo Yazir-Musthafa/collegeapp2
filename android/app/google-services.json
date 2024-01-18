@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511388205844",
+    "project_id": "campus-faadf",
+    "storage_bucket": "campus-faadf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511388205844:android:6bb572aff2eac9181df801",
+        "android_client_info": {
+          "package_name": "com.example.collegeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEDEdO9vUEHTw2RWFXT9eP29tXwNgIX9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
